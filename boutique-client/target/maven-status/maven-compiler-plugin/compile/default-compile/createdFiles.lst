@@ -1,0 +1,10 @@
+tg/univlome/cic/boutique/client/entities/Achat.class
+tg/univlome/cic/boutique/client/entities/Employe.class
+tg/univlome/cic/boutique/client/entities/Personne.class
+tg/univlome/cic/boutique/client/entities/Produit.class
+tg/univlome/cic/boutique/client/ProduitClient.class
+tg/univlome/cic/boutique/client/CategorieClient.class
+tg/univlome/cic/boutique/client/entities/Categorie.class
+tg/univlome/cic/boutique/client/entities/Client.class
+tg/univlome/cic/boutique/client/entities/ProduitAchete.class
+tg/univlome/cic/boutique/client/Main.class
